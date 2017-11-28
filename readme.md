@@ -25,6 +25,8 @@ Create your html templates in the `includes` directory.
 You will also need to create some data for the page. Use the `recipes.json` file in the `data` directory as a guide to creating your own `reviews.json` file. (Note - if you use quotations in your content you will need to escape them with `\`.) 
 
 
+For extra bonus points you can create a detail page for one of your entries (similar to how we set up the Lasagna detail page).
+
 
 
 
